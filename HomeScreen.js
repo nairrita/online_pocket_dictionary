@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
   },
   detailsTitle:{
     color:'orange',
-    fontSize:20,
+    fontSize:25,
     fontWeight:'bold'
   }
 });
